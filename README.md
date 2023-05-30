@@ -1,2 +1,2 @@
 # Culture_Art_Center
-Culture_Art_Center membership
+Miniproject Culture_Art_Center membership
